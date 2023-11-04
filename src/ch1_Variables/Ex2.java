@@ -9,13 +9,14 @@ public class Ex2 {
     char liczba3='a';
     boolean liczba4=true;
     String tekst="Michał";
+    String tekst2=" Lachowski";
 
 
     System.out.println(liczba);
     System.out.println(liczba2);
     System.out.println(liczba3);
     System.out.println(liczba4);
-    System.out.println(tekst);
+    System.out.println(tekst+tekst2);
 
 
 
